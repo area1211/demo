@@ -10,5 +10,32 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "mail": {
+    "currentTime": 1548323777,
+    "mailInfo": [
+      {
+        "mailSN": 2361,
+        "folderSN": 6,
+        "iconType": 0,
+        "status": 5,
+        "from": {
+          "name": "정인호",
+          "email": "inojng@gmail.com"
+        },
+        "body": "body is html"
+      },
+      {
+        "mailSN": 2363,
+        "folderSN": 6,
+        "iconType": 0,
+        "status": 5,
+        "from": {
+          "name": "손흥민",
+          "email": "son7@gmail.com"
+        },
+        "body": "나야 민이"
+      }
+    ]
   }
 }
