@@ -36,6 +36,31 @@
         },
         "body": "나야 민이"
       }
-    ]
+    ],
+    "attachList": {
+        "attachInfo": [{
+            "contentSN": 2,
+            "contentId": "",
+            "contentType": "video/mp4",
+            "contentDisposition": "attachment",
+            "charset": "MS949",
+            "realFilename": "20170413_154301.mp4",
+            "filename": "20170413_154301.mp4",
+            "encoding": "base64",
+            "contentOffset": 8981,
+            "contentSize": 10536100,
+            "decodedContentSize": 7699455,
+            "flag": 1,
+            "humanReadSize": "7MB",
+            "showTextLink": false,
+            "showHtmlLink": false,
+            "showImage": false,
+            "showAlert": false,
+            "deleted": false,
+            "decodedSize": 7699455
+        }],
+        "attachCount": 1,
+        "attachsizeAll": "7MB"
+    }
   }
 }
