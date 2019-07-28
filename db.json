@@ -11,32 +11,137 @@
   "profile": {
     "name": "typicode"
   },
+  "mails": {
+    "currentTime": 1409126091,
+    "lastPage": 1,
+    "mailData": [
+        {
+            "priority": 3,
+            "size": 1042,
+            "threadCount": 0,
+            "threadId": "<a1903976041747540dbfc1dd0e99c86@example.com>",
+            "status": 5,
+            "subject": "안녕하세요",
+            "mailSN": 5,
+            "mimeSN": "1408959094.599851.19650.619501",
+            "from": {
+                "name": "홍길동",
+                "email": "user01@example.com"
+            },
+            "toList": [
+                {
+                    "name": "",
+                    "email": "user01@example.com"
+                }
+            ],
+            "attachInfo": [{
+                "contentSN": 2,
+                "filename": "giphy.gif",
+                "contentOffset": 2095,
+                "contentSize": 786174,
+                "contentType": "image/gif",
+                "decodedSize": 589630
+            }],
+            "preview": "메일 본문입니다.",
+            "receivedTime": 1408959094,
+            "attachCount": 0,
+            "folderSN": 6,
+            "toMe": false,
+            "securityLevel": "NORMAL",
+            "sentTime": 1408959094,
+            "iconType": 0,
+            "color": "#ffffff",
+            "reSend": true,
+            "spamType": null,
+            "unreadThreadCount": 0
+        },
+        {
+            "priority": 3,
+            "size": 196331,
+            "threadCount": 0,
+            "threadId": "<14363dcad647f36b603771dc9ea88ad0@example.com>",
+            "status": 5,
+            "subject": "복잡한 페이지 로드 확인 중...",
+            "mailSN": 2,
+            "mimeSN": "1408957487.49617.14930.64547",
+            "from": {
+                "name": "홍길동",
+                "email": "user01@example.com"
+            },
+            "toList": [
+                {
+                    "name": "",
+                    "email": "user01@example.com"
+                }
+            ],
+            "attachInfo": [],
+            "preview": "",
+            "receivedTime": 1408957487,
+            "attachCount": 0,
+            "folderSN": 6,
+            "toMe": false,
+            "securityLevel": "NORMAL",
+            "sentTime": 1408957486,
+            "iconType": 0,
+            "color": "#ffffff",
+            "reSend": true,
+            "spamType": null,
+            "unreadThreadCount": 0
+        },
+        {
+            "priority": 3,
+            "size": 2079,
+            "threadCount": 0,
+            "threadId": "<67823c36f479f825abc761952852936@example.com>",
+            "status": 37,
+            "subject": "내가 작성한 개발 메일입니다.",
+            "mailSN": 1,
+            "mimeSN": "1408951522.795266.30402.825668",
+            "from": {
+                "name": "홍길동",
+                "email": "user01@example.com"
+            },
+            "toList": [
+                {
+                    "name": "",
+                    "email": "user01@example.com"
+                }
+            ],
+            "attachInfo": [],
+            "preview": "",
+            "receivedTime": 1408951522,
+            "attachCount": 0,
+            "folderSN": 101,
+            "toMe": false,
+            "securityLevel": "NORMAL",
+            "sentTime": 1408951522,
+            "iconType": 0,
+            "color": "#ffffff",
+            "reSend": true,
+            "spamType": null,
+            "unreadThreadCount": 0
+        }
+    ],
+    "totalCount": 3,
+    "listCount": 3,
+    "unreadCount": 0,
+    "pageSize": 30,
+    "folderName": "전체메일함"
+  },
   "mail": {
     "currentTime": 1548323777,
-    "mailInfo": [
-      {
-        "mailSN": 2361,
-        "folderSN": 6,
-        "iconType": 0,
-        "status": 5,
-        "from": {
-          "name": "정인호",
-          "email": "inojng@gmail.com"
-        },
-        "body": "body is html"
+    "mailInfo": {
+      "mailSN": 2361,
+      "folderSN": 6,
+      "iconType": 0,
+      "status": 5,
+      "from": {
+        "name": "정인호",
+        "email": "inojng@gmail.com"
       },
-      {
-        "mailSN": 2363,
-        "folderSN": 6,
-        "iconType": 0,
-        "status": 5,
-        "from": {
-          "name": "손흥민",
-          "email": "son7@gmail.com"
-        },
-        "body": "나야 민이"
-      }
-    ],
+      "subject": "안녕하세요 메일 보내봅니다.",
+      "body": "body is html"
+    },
     "attachList": {
         "attachInfo": [{
             "contentSN": 2,
