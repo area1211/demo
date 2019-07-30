@@ -142,7 +142,8 @@
             "email": "yang@gmail.com"
           },
           "subject": "안녕하세요 메일 보내봅니다.",
-          "body": "잘 보이나요? 감사합니다."
+          "body": "잘 보이나요? 감사합니다.",
+          "sentTime": 1408951522
         },
         "attachList": {
             "attachInfo": [{
@@ -183,7 +184,8 @@
             "email": "yunho.jang@gmail.com"
           },
           "subject": "오늘 날씨가 너무 더우니까...",
-          "body": "점심은 시켜 드시죠..."
+          "body": "점심은 시켜 드시죠...",
+          "sentTime": 1408957486
         }
       },
       {
@@ -199,7 +201,8 @@
             "email": "kim@gmail.com"
           },
           "subject": "안녕하세요",
-          "body": "중간 발표 화이팅~!"
+          "body": "중간 발표 화이팅~!",
+          "sentTime": 1408959094
         }
       }
     ]
