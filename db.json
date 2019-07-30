@@ -130,7 +130,7 @@
   },
   "mail": [
       {
-        "id": 1
+        "id": 1,
         "currentTime": 1548323777,
         "mailInfo": {
           "mailSN": 1,
@@ -171,7 +171,7 @@
         }
       },
       {
-        "id": 2
+        "id": 2,
         "currentTime": 1548323777,
         "mailInfo": {
           "mailSN": 1,
@@ -187,7 +187,7 @@
         }
       },
       {
-        "id": 5
+        "id": 5,
         "currentTime": 1548323777,
         "mailInfo": {
           "mailSN": 1,
