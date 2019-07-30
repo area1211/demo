@@ -98,13 +98,13 @@
             "mailSN": 1,
             "mimeSN": "1408951522.795266.30402.825668",
             "from": {
-                "name": "",
-                "email": "user01@example.com"
+                "name": "양석원",
+                "email": "yang@gmail.com"
             },
             "toList": [
                 {
                     "name": "양석원",
-                    "email": "yang@gmail.com"
+                    "email": "user01@example.com"
                 }
             ],
             "attachInfo": [],
