@@ -25,8 +25,8 @@
             "mailSN": 5,
             "mimeSN": "1408959094.599851.19650.619501",
             "from": {
-                "name": "홍길동",
-                "email": "user01@example.com"
+                "name": "김연재",
+                "email": "kim@gmail.com"
             },
             "toList": [
                 {
@@ -61,12 +61,12 @@
             "threadCount": 0,
             "threadId": "<14363dcad647f36b603771dc9ea88ad0@example.com>",
             "status": 5,
-            "subject": "복잡한 페이지 로드 확인 중...",
+            "subject": "오늘 날씨가 너무 더우니까...",
             "mailSN": 2,
             "mimeSN": "1408957487.49617.14930.64547",
             "from": {
-                "name": "홍길동",
-                "email": "user01@example.com"
+                "name": "장윤호",
+                "email": "yunho.jang@gmail.com"
             },
             "toList": [
                 {
@@ -94,17 +94,17 @@
             "threadCount": 0,
             "threadId": "<67823c36f479f825abc761952852936@example.com>",
             "status": 37,
-            "subject": "내가 작성한 개발 메일입니다.",
+            "subject": "안녕하세요 메일 보내봅니다.",
             "mailSN": 1,
             "mimeSN": "1408951522.795266.30402.825668",
             "from": {
-                "name": "홍길동",
+                "name": "",
                 "email": "user01@example.com"
             },
             "toList": [
                 {
-                    "name": "",
-                    "email": "user01@example.com"
+                    "name": "양석원",
+                    "email": "yang@gmail.com"
                 }
             ],
             "attachInfo": [],
@@ -128,44 +128,79 @@
     "pageSize": 30,
     "folderName": "전체메일함"
   },
-  "mail": {
-    "currentTime": 1548323777,
-    "mailInfo": {
-      "mailSN": 2361,
-      "folderSN": 6,
-      "iconType": 0,
-      "status": 5,
-      "from": {
-        "name": "정인호",
-        "email": "inojng@gmail.com"
+  "mail": [
+      {
+        "id": 1
+        "currentTime": 1548323777,
+        "mailInfo": {
+          "mailSN": 1,
+          "folderSN": 6,
+          "iconType": 0,
+          "status": 5,
+          "from": {
+            "name": "양석원",
+            "email": "yang@gmail.com"
+          },
+          "subject": "안녕하세요 메일 보내봅니다.",
+          "body": "잘 보이나요? 감사합니다."
+        },
+        "attachList": {
+            "attachInfo": [{
+                "contentSN": 2,
+                "contentId": "",
+                "contentType": "video/mp4",
+                "contentDisposition": "attachment",
+                "charset": "MS949",
+                "realFilename": "20170413_154301.mp4",
+                "filename": "20170413_154301.mp4",
+                "encoding": "base64",
+                "contentOffset": 8981,
+                "contentSize": 10536100,
+                "decodedContentSize": 7699455,
+                "flag": 1,
+                "humanReadSize": "7MB",
+                "showTextLink": false,
+                "showHtmlLink": false,
+                "showImage": false,
+                "showAlert": false,
+                "deleted": false,
+                "decodedSize": 7699455
+            }],
+            "attachCount": 1,
+            "attachsizeAll": "7MB"
+        }
       },
-      "subject": "안녕하세요 메일 보내봅니다.",
-      "body": "body is html"
-    },
-    "attachList": {
-        "attachInfo": [{
-            "contentSN": 2,
-            "contentId": "",
-            "contentType": "video/mp4",
-            "contentDisposition": "attachment",
-            "charset": "MS949",
-            "realFilename": "20170413_154301.mp4",
-            "filename": "20170413_154301.mp4",
-            "encoding": "base64",
-            "contentOffset": 8981,
-            "contentSize": 10536100,
-            "decodedContentSize": 7699455,
-            "flag": 1,
-            "humanReadSize": "7MB",
-            "showTextLink": false,
-            "showHtmlLink": false,
-            "showImage": false,
-            "showAlert": false,
-            "deleted": false,
-            "decodedSize": 7699455
-        }],
-        "attachCount": 1,
-        "attachsizeAll": "7MB"
-    }
-  }
+      {
+        "id": 2
+        "currentTime": 1548323777,
+        "mailInfo": {
+          "mailSN": 1,
+          "folderSN": 6,
+          "iconType": 0,
+          "status": 5,
+          "from": {
+            "name": "장윤호",
+            "email": "yunho.jang@gmail.com"
+          },
+          "subject": "오늘 날씨가 너무 더우니까...",
+          "body": "점심은 시켜 드시죠..."
+        }
+      },
+      {
+        "id": 5
+        "currentTime": 1548323777,
+        "mailInfo": {
+          "mailSN": 1,
+          "folderSN": 6,
+          "iconType": 0,
+          "status": 5,
+          "from": {
+            "name": "김연재",
+            "email": "kim@gmail.com"
+          },
+          "subject": "안녕하세요",
+          "body": "중간 발표 화이팅~!"
+        }
+      }
+    ]
 }
