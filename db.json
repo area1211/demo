@@ -120,10 +120,43 @@
             "reSend": true,
             "spamType": null,
             "unreadThreadCount": 0
-        }
+        },
+        {
+              "priority": 3,
+              "size": 2079,
+              "threadCount": 0,
+              "threadId": "<67823c36f479f825abc761952852936@example.com>",
+              "status": 37,
+              "subject": "폴링 테스트",
+              "mailSN": 9,
+              "mimeSN": "1408951522.795266.30402.825668",
+              "from": {
+                  "name": "양석원",
+                  "email": "yang@gmail.com"
+              },
+              "toList": [
+                  {
+                      "name": "양석원",
+                      "email": "user01@example.com"
+                  }
+              ],
+              "attachInfo": [],
+              "preview": "",
+              "receivedTime": 1408951522,
+              "attachCount": 0,
+              "folderSN": 101,
+              "toMe": false,
+              "securityLevel": "NORMAL",
+              "sentTime": 1408951522,
+              "iconType": 0,
+              "color": "#ffffff",
+              "reSend": true,
+              "spamType": null,
+              "unreadThreadCount": 0
+          }
     ],
-    "totalCount": 3,
-    "listCount": 3,
+    "totalCount": 4,
+    "listCount": 4,
     "unreadCount": 0,
     "pageSize": 30,
     "folderName": "전체메일함"
